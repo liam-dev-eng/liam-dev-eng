@@ -13,19 +13,31 @@ I am a Technical Leader with over 7 years of experience in the tech ecosystem. M
 - **Engineering Management:** Building high-performance teams through mentorship, agile methodologies (SCRUM/BDD), and technical excellence.
 - **Strategic Quality:** Designing robust automation frameworks (Playwright, Selenium) that align engineering efforts with business goals.
 
----
-
 ### 🛠️ Tech Stack & Tools
+
+#### **Core Automation & Development**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-47A141?style=for-the-badge&logo=Selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
----
+#### **API Orchestration & Quality Strategy**
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Testing-0052CC?style=for-the-badge&logo=airtable&logoColor=white" />
+  <img src="https://img.shields.io/badge/BDD%20/%20Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+#### **AI Engineering for SDLC (The Future)**
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4B4B?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Orchestration-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+</p>
 
 ### 🧪 Featured AI & QA Projects
 *These projects demonstrate how I integrate AI into the engineering process:*
