@@ -50,8 +50,8 @@ I am a Technical Leader with over 7 years of experience in the tech ecosystem. M
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=liam-dev-eng&show_icons=true&theme=tokyonight" alt="William's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-dev-eng&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=liam-dev-eng" alt="William's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-dev-eng" alt="Top Langs" />
 </p>
 
 ---
