@@ -54,7 +54,7 @@ I am a Technical Leader with over 7 years of experience in the tech ecosystem. M
 ---
 
 ### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/william-aucique/(https://www.linkedin.com/in/william-aucique/)
-- **Email:** waucique@gmail.com
+- **LinkedIn:** [linkedin.com/in/william-aucique/](https://www.linkedin.com/in/william-aucique/)
+- **Email:** [waucique@gmail.com](mailto:waucique@gmail.com)
 
 *"Quality is not a bottleneck; it's the engine of business growth."*
