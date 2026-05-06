@@ -53,7 +53,10 @@ I am a Technical Leader with over 7 years of experience in the tech ecosystem. M
 ### 🧪 Featured AI & QA Projects
 *These projects demonstrate how I integrate AI into the engineering process:*
 
-![](https://github-readme-stats-fast.vercel.app/api/pin/?username=liam-dev-eng&repo=AI4Devs-finalproject&show_icons=true&theme=tokyonight)
+[![](https://github-readme-stats-fast.vercel.app/api/pin/?username=liam-dev-eng&repo=AI4Devs-finalproject&show_icons=true&theme=tokyonight)](https://github.com/liam-dev-eng/AI4Devs-finalproject)
+[![](https://github-readme-stats-fast.vercel.app/api/pin/?username=liam-dev-eng&repo=AI4Devs-backend-2509&show_icons=true&theme=tokyonight)](https://github.com/liam-dev-eng/AI4Devs-backend-2509)
+[![](https://github-readme-stats-fast.vercel.app/api/pin/?username=liam-dev-eng&repo=AI4Devs-frontend-2509-rk&show_icons=true&theme=tokyonight)](https://github.com/liam-dev-eng/AI4Devs-frontend-2509-rk)
+[![](https://github-readme-stats-fast.vercel.app/api/pin/?username=liam-dev-eng&repo=AI4Devs-design-2-2509&show_icons=true&theme=tokyonight)](https://github.com/liam-dev-eng/AI4Devs-design-2-2509)
 
 ---
 
