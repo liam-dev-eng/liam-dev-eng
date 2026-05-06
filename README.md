@@ -22,6 +22,7 @@ I am a Technical Leader with over 7 years of experience in the tech ecosystem. M
   <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-47A141?style=for-the-badge&logo=Selenium&logoColor=white" />
+  <img src ="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
 </p>
 
 #### **API Orchestration & Quality Strategy**
@@ -29,15 +30,25 @@ I am a Technical Leader with over 7 years of experience in the tech ecosystem. M
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
   <img src="https://img.shields.io/badge/API%20Testing-0052CC?style=for-the-badge&logo=airtable&logoColor=white" />
   <img src="https://img.shields.io/badge/BDD%20/%20Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-#### **AI Engineering for SDLC (The Future)**
+#### **AI Engineering**
 <p align="left">
   <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4B4B?style=for-the-badge&logo=google-gemini&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM%20Orchestration-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src= "https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white"/>
 </p>
+
+#### **Operating System**
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
+
 
 ### 🧪 Featured AI & QA Projects
 *These projects demonstrate how I integrate AI into the engineering process:*
