@@ -42,17 +42,14 @@ I am a Technical Leader with over 7 years of experience in the tech ecosystem. M
 ### 🧪 Featured AI & QA Projects
 *These projects demonstrate how I integrate AI into the engineering process:*
 
-* **[Self-Healing Test Suite](https://github.com/liam-dev-eng)**: A Playwright-based framework using OpenAI to automatically fix broken selectors.
-* **[AI-BDD Generator](https://github.com/liam-dev-eng)**: Automating Gherkin feature files from natural language product requirements.
-* **[SDLC AI Auditor](https://github.com/liam-dev-eng)**: Leveraging LLMs for automated Pull Request reviews focused on code quality and security.
+![](https://github-readme-stats-fast.vercel.app/api/pin/?username=liam-dev-eng&repo=AI4Devs-finalproject&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=liam-dev-eng" alt="William's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-dev-eng" alt="Top Langs" />
-</p>
+
+![](https://github-readme-stats-fast.vercel.app/api?username=liam-dev-eng&show_icons=true&theme=tokyonight)
+
 
 ---
 
